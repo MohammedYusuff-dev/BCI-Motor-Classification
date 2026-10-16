@@ -9,6 +9,6 @@ This repository contains Python-based Brain-Computer Interface (BCI) pipelines u
 ```text
 BCI-Motor-Classification/
 ├── .gitignore                  # Git ignore rules
+├── README.md                   # Project documentation
 ├── motor_imagery_demo.ipynb    # BCI classification notebook for Motor Imagery (Thought-based)
-├── motor_movement_demo.ipynb   # BCI classification notebook for Motor Movement (Physical execution)
-└── README.md                   # Project documentation
+└── motor_movement_demo.ipynb   # BCI classification notebook for Motor Movement (Physical execution)
